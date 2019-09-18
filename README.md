@@ -17,11 +17,11 @@ This business network defines:
 
 
 ## Testing the network
-1.Open [Composer Playground](http://composer-playground.mybluemix.net)
-2.Deploy New Business Network
-3.Upload .bna file found in /dist folder
-4.Deploy
-5.Connect now
+1. Open [Composer Playground](http://composer-playground.mybluemix.net)
+2. Deploy New Business Network
+3. Upload .bna file found in /dist folder
+4. Deploy
+5. Connect now
 
 
 ## Todos
